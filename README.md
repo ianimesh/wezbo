@@ -2,7 +2,7 @@
 
 ## Team Godlike
 
-The app is built on salesforce platform. It aims on informing the citizens and the health offiicals of a country about a disease spread in the country. Hence this application helps in controlling the situation of a disease in the region.
+The app is built on salesforce platform which is a low-code platform as asked in the problem statement. It aims on informing the citizens and the health offiicals of a country about a disease spread in the country. Hence this application helps in controlling the situation of a disease in the region.
 
 -   A web application that helps the Goverment to identify hotspots, hence aiding in curbing the spread of the infection.
 -   The healthcare officials have to add the new cases of the disease in the health admin view section of  the application so that the database can be automatically be updated and reflected on the health admin view itself.
