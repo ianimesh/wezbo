@@ -10,11 +10,11 @@ The app is built on salesforce platform. It aims on informing the citizens and t
 -   We have used the async feature of salesforce which releases us from the burden to manually update and delete the old records which have crossed a limit of 30 days.
 -   The Frontend of the Web Application uses Aura framework which uses Javascript and CSS. We have used the out of the box features of salesforce which are the lightning web components which can between directly used in the application and we have tried to customize them too.
 
+![Contact_Tracing_App](https://github.com/choudharymanish8585/contact-tracing/blob/master/screenshots/screenshots.png)
+
 ## Improvements
 We look forward to add functionalities like notification alerts using REST APIs on salesforce and disease survey form to get more precise result.
 We also look forward to use google maps to show the affected regions. 
-
-![Contact_Tracing_App](https://github.com/choudharymanish8585/contact-tracing/blob/master/screenshots/screenshots.png)
 
 ## The technologies used to make this web-application are:
 
