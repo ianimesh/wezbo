@@ -1,5 +1,7 @@
 # Wezbo Covid-Tracer App
 
+## Team Godlike
+
 The app is built on salesforce platform. It aims on informing the citizens and the health offiicals of a country about a disease spread in the country. Hence this application helps in controlling the situation of a disease in the region.
 
 -   A web application that helps the Goverment to identify hotspots, hence aiding in curbing the spread of the infection.
@@ -26,14 +28,4 @@ We also look forward to use google maps to show the affected regions.
 -   Database Manipulation
 -   Lightning Web Components
 
-
-## Install the Application
-
-**Make sure you have "git" and Salesoforce CLI installed in your system. Follow below steps to upload object schema along with permission set in your Salesforce Org.**
-
--   Clone "master" branch from this git repo `git clone https://github.com/hrishi2107/Contact-Tracer.git`
--   Open Terminal/Command Prompt and navigate to above folder
--   Authorize your Salesforce Org `sfdx force:auth:web:login -a TestOrg1`
--   Deploy all metadata to your Salesforce Org `sfdx force:source:deploy -p force-app/main/default/`
--   Assign permission set to current user `sfdx force:user:permset:assign -n Health_Admin`
--   Open Saleforce Org `sfdx force:org:open` and switch to "Contact Tracer" application
+## Thanks!
